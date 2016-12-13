@@ -1,0 +1,2 @@
+eventlet==0.20.0
+gevent_socketio==0.3.6
